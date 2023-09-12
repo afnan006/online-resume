@@ -1,0 +1,173 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+  position: left # position of the sidebar : left or right
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
+
+  # Profile information
+  name: Afnan Ahmed
+  tagline: Aspiring Full Stack Developer
+  avatar: Profilepicture.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+  # Sidebar links
+  email: afnan006cs@gmail.com
+  phone: 8296635241
+  timezone:
+  citizenship: INDIAN
+  website: #do not add http://
+  linkedin: afnan006
+  xing:
+  github: afnan006
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter:
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  pdf:
+
+  languages:
+    title: Languages
+    info:
+      - idiom: Urdu
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+      - idiom: Hindi
+        level: Professional
+
+      - idiom: Kannada
+        level: Native/Bilingual
+
+  interests:
+    title: Interests
+    info:
+      - item: Photography
+        link:
+
+      - item: Gaming
+        link:
+
+      - item: Cooking
+        link:
+
+career-profile:
+  title: Career Profile
+  summary: |
+    Computer Science student.I consider my self a responsible and orderly person.I am looking forward for my first work experience.
+education:
+  title: Education
+  info:
+    - degree: B.E Computer Science and Engineering
+      university: City Engineering College, Bangalore
+      time: Graduating in 2024
+      details: |
+        -CGPA : 7.26
+
+    - degree: Sri Uma Maheshwari PU college
+      university: Karnataka State Board
+      time: 2018 - 2020
+      details: |
+
+    - degree: St. Ann's High School
+      university: Karnataka State Board
+      time: April 2018 
+      details: |
+    
+   
+    
+
+experiences:
+  title: Experiences
+  info:
+    - role: Intern
+      time: 2023 - Present
+      company: Hutti Gold Mines Co Ltd
+      details: |
+        Working As a Data Analyst Intern
+    - role: Participant
+      time: 2021 - 6 months
+      company: e-Yantra Robotics
+      details: |
+        Participated in development of a robotic solution for Functional Weeder. Developed using Elixer.
+    -
+
+projects:
+  title: Projects
+  intro: >
+    
+  assignments:
+    - title: Digital Diary
+      link: "https://github.com/afnan006/digital-diary"
+      tagline: "A digital note taking system developed using web technologies with database integration."
+
+    - title: Mine AI
+      link: "https://afnan006.github.io/Mine.AI/"
+      tagline: "An AI based helpbot built as an internship project ."
+
+oss:
+  title: OSS Contributions
+  intro: >
+    You can list your open source software contributions in this
+    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  contributions:
+    - title: Hacker's Hive
+      link: "https://hackershive.tech/"
+      tagline: "Participated in testing of open source programming blog built using jekyll ."
+
+skills:
+  title: Technical Skills
+
+  toolset:
+    - name: Adept in Windows,Linux
+
+    - name: Proficient in HTML5, CSS and Javascript
+      level: 95%
+
+    - name: Familiarity in C/C++
+
+    - name: Familiarity With Prompting
+      level: 85%
+
+    - name: Familiarity With Figma
+      level: 60%
+
+    - name: Familiarity With Python and Flask
+      level:
+
+Sskills:
+  title: Soft Skills
+
+  toolset:
+    - name: Project Management
+
+    - name: Teamwork
+      level: 95%
+
+    - name: Adaptability
+
+    - name: Problem Solving
+      level: 85%
+
+tools:
+  title: Dev Tools
+
+  toolset:
+    - name: VS Code
+
+    - name: Familiarity Git and Github
+      level: 95%
+
+    - name: Familiarity Android Studio
+
+    - name: Familiarity PyCharm
+      level: 85%
+
+footer: >
